@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1750737171772,
+    "vechilename": "bugati cheron",
+    "price": "20000000",
+    "image": "https://imgs.search.brave.com/CfcoJ1xWleQEKFqTARko_6R7AepYZqGBwbxztOhDfYQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5ldm8uY28udWsv/aW1hZ2UvcHJpdmF0/ZS9zLS1OZEVLTXFU/US0tL2ZfYXV0byx0/X2NhcmQtbW9iaWxl/QDEvdjE1NTYyMjEw/NjIvZXZvLzIwMTgv/MDgvYnVpbGRmb3Jy/ZWFsXzcuanBn",
+    "desc": "super car",
+    "brand": "bugati"
+  },
+  {
+    "id": 1750737343914,
+    "vechilename": "bullet",
+    "price": "230000",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/royalenfield-bullet-battalion-black1740992373327.jpg?q=80",
+    "desc": "royal bike with heavy features",
+    "brand": "standard"
+  },
+  {
+    "id": 1750737452081,
+    "vechilename": "BMW i7",
+    "price": "4000000",
+    "image": "https://imgs.search.brave.com/vEVjMbHQvmGsqnpGGwQ9SfNno5c2wAISpGn5HAM1Q34/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdk/LmFlcGxjZG4uY29t/LzM3MHgyMDgvbi9j/dy9lYy8xOTUxMzcv/aTctZXh0ZXJpb3It/bGVmdC1mcm9udC10/aHJlZS1xdWFydGVy/LmpwZWc_aXNpZz0w/JmlzaWc9MCZxPTgw",
+    "desc": "royal cars",
+    "brand": "BMW"
+  },
+  {
+    "id": 1750737601346,
+    "vechilename": "ALTO 800",
+    "price": "500000",
+    "image": "https://www.autovista.in/assets/product_images/gallery/new-alto-800-right.jpg",
+    "desc": "best car in low price",
+    "brand": "ALTO"
+  },
+  {
+    "id": 1750737740757,
+    "vechilename": "PASSION PRO",
+    "price": "80000",
+    "image": "https://imgs.search.brave.com/51qGHDoosks6uPLgCTUG4ea0iIc42zFKbF78WbMDJIA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuOTF3aGVlbHMu/Y29tL2Fzc2V0cy9i/X2ltYWdlcy9nYWxs/ZXJ5L2hlcm9tb3Rv/Y29ycC9wYXNzaW9u/LXByby1iczYvaGVy/b21vdG9jb3JwLXBh/c3Npb24tcHJvLWJz/Ni0wLTE2MTgxNTk2/MjkucG5nP3c9MTIw/MCZxPTYwP3c9Mzg0/MCZxPTYw",
+    "desc": "MIDDLE CLASS BIKE ",
+    "brand": "HERO "
+  },
+  {
+    "id": 1750737932459,
+    "vechilename": "HARLEY DAVIDSON",
+    "price": "300000",
+    "image": "https://cdn.motor1.com/images/mgl/lEExRE/s3/2022-harley-davidson-pan-america-1250-special-g.i.---hangar.webp",
+    "desc": "PREMIUM BIKE WITH  HIGF STANDRAD",
+    "brand": "HARLEY"
+  }
+]
